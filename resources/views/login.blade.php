@@ -6,6 +6,7 @@
         <div class="row">
             <div class="col-lg-5">
                 <div class="login-background position-relative d-lg-flex align-items-center justify-content-center d-none flex-wrap vh-100">
+                    {{-- 
                     <div class="bg-overlay-img">
                         <img src="{{URL::asset('build/img/bg/bg-01.png')}}" class="bg-1" alt="Img">
                         <img src="{{URL::asset('build/img/bg/bg-02.png')}}" class="bg-2" alt="Img">
@@ -22,6 +23,7 @@
                             </div>
                         </div>
                     </div>
+                    --}}
                 </div>
             </div>
             <div class="col-lg-7 col-md-12 col-sm-12">
@@ -68,14 +70,7 @@
                                     <div class="mb-3">
                                         <button type="submit" id="login_btn" class="btn btn-primary w-100">Sign In</button>
                                     </div>
-                                    <div class="text-center">
-                                        <h6 class="fw-normal text-dark mb-0">Don’t have an account? 
-                                            <a href="{{url('register')}}" class="hover-a"> Create Account</a>
-                                        </h6>
-                                    </div>
-                                    <div class="login-or">
-                                        <span class="span-or">Or</span>
-                                    </div>
+                                    
                                     <div class="mt-2">
                                         <div class="d-flex align-items-center justify-content-center flex-wrap">
                                             <div class="text-center me-2 flex-fill">
@@ -97,7 +92,7 @@
                                     </div>
                                 </div>
                                 <div class="mt-5 pb-4 text-center">
-                                    <p class="mb-0 text-gray-9">Copyright &copy; 2024 - Smarthr</p>
+                                    <p class="mb-0 text-gray-9">Copyright &copy; 2024 -</p>
                                 </div>
                             </div>
                         </form>
@@ -114,21 +109,18 @@ $(document).ready(function () {
     $('#login_form').on('submit', function (e) {
         e.preventDefault();
         
-        // Disable button to prevent multiple clicks
         let btn = $('#login_btn');
         btn.prop('disabled', true).text('Processing...');
 
         $.ajax({
-            url: "{{ url('login-check') }}", // Matches your old web.php route
+            url: "{{ url('login-check') }}", 
             method: "POST",
             data: $(this).serialize(),
             dataType: "JSON",
             success: function (response) {
                 if (response.status === 'success') {
-                    // Redirect to dashboard on success
                     window.location.href = "{{ url('index') }}";
                 } else {
-                    // Show error message (using standard alert, you can replace with Toastr)
                     alert(response.message);
                     btn.prop('disabled', false).text('Sign In');
                 }

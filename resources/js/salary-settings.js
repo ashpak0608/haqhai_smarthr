@@ -1,6 +1,6 @@
 /*
 Author       : Dreamstechnologies
-Template Name: Smarthr - Bootstrap Admin Template
+Template Name: HAQHAI - Bootstrap Admin Template
 */
 (function () {
     "use strict";

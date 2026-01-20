@@ -33,7 +33,7 @@
                             <a href="#" class="me-3 text-gray-9">Help</a>
                         </div>
                         <div class="p-2 text-center">
-                            <p class="mb-0 text-gray-9">Copyright &copy; 2024 - SmartHR</p>
+                            <p class="mb-0 text-gray-9">Copyright &copy; 2024 - HAQHAI</p>
                         </div>
                     </div>
                 </div>

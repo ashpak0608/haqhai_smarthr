@@ -155,10 +155,10 @@
                                         </div>
                                     </td>
                                     <td>
-                                        <h6 class="fw-medium"><a href="#">Is the data stored in an SmartHR
+                                        <h6 class="fw-medium"><a href="#">Is the data stored in an HAQHAI
                                                 secure?</a></h6>
                                     </td>
-                                    <td>Yes, SmartHR is design with advanced security measures, including data encryption
+                                    <td>Yes, HAQHAI is design with advanced security measures, including data encryption
                                     </td>
                                     <td>Feature</td>
                                     <td>
@@ -200,7 +200,7 @@
                                     </td>
                                     <td>
                                         <h6 class="fw-medium"><a href="#">How do I generate custom reports in the
-                                                SmartHR?</a></h6>
+                                                HAQHAI?</a></h6>
                                     </td>
                                     <td>Custom reports can be generated using the reporting module within the HRMS</td>
                                     <td>Reports</td>
@@ -242,7 +242,7 @@
                                     </td>
                                     <td>
                                         <h6 class="fw-medium"><a href="#">How do I process payroll in the
-                                                SmartHR?</a></h6>
+                                                HAQHAI?</a></h6>
                                     </td>
                                     <td>Reviewing employee hours and deductions and executing payments.</td>
                                     <td>Payroll</td>
@@ -350,7 +350,7 @@
         </div>
 
         <div class="footer d-sm-flex align-items-center justify-content-between border-top bg-white p-3">
-            <p class="mb-0">2014 - 2025 &copy; SmartHR.</p>
+            <p class="mb-0">2014 - 2025 &copy; HAQHAI.</p>
             <p>Designed &amp; Developed By <a href="javascript:void(0);" class="text-primary">Dreams</a></p>
         </div>
 

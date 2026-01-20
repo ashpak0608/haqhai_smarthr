@@ -9348,10 +9348,10 @@
                         <div class="col-md-7">
                             <p class="text-dark mb-2 fw-medium fs-16">Invoice From :</p>
                             <div>
-                                <p class="mb-1">SmartHR</p>
+                                <p class="mb-1">HAQHAI</p>
                                 <p class="mb-1">367 Hillcrest Lane, Irvine, California, 
                                     United States</p>
-                                <p class="mb-1">smarthr@example.com</p>
+                                <p class="mb-1">HAQHAI@example.com</p>
                             </div>
                         </div>
                         <div class="col-md-5">
@@ -11097,10 +11097,10 @@
                         <div class="col-md-7">
                             <p class="text-dark mb-2 fw-medium fs-16">Invoice From :</p>
                             <div>
-                                <p class="mb-1">SmartHR</p>
+                                <p class="mb-1">HAQHAI</p>
                                 <p class="mb-1">367 Hillcrest Lane, Irvine, California, 
                                     United States</p>
-                                <p class="mb-1">smarthr@example.com</p>
+                                <p class="mb-1">HAQHAI@example.com</p>
                             </div>
                         </div>
                         <div class="col-md-5">

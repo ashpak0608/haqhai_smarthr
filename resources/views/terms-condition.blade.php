@@ -34,7 +34,7 @@
             <div class="card-body pb-1">
                 <div class="mb-3">
                     <p>
-                        Welcome to the Smart HR Admin platform. These terms and conditions outline the rules and regulations for using our HR administrative services. By accessing or using this platform, you agree to comply with these terms. Please read them carefully.
+                        Welcome to the HAQHAI Admin platform. These terms and conditions outline the rules and regulations for using our HR administrative services. By accessing or using this platform, you agree to comply with these terms. Please read them carefully.
                     </p>
                 </div>
                 <div class="mb-3">
@@ -88,7 +88,7 @@
                 <div class="mb-3">
                     <h5 class="mb-2">Intellectual Property</h5>
                     <p class="mb-2">
-                        All content, software, and intellectual property associated with the platform are owned by SmartHR. You may not reproduce, distribute, or create derivative works from any materials on the platform without prior written consent.
+                        All content, software, and intellectual property associated with the platform are owned by HAQHAI. You may not reproduce, distribute, or create derivative works from any materials on the platform without prior written consent.
                     </p>
                 </div>
                 <div class="mb-3">
@@ -107,7 +107,7 @@
                 <div class="mb-3">
                     <h5 class="mb-2">Limitation of Liability</h5>
                     <p>
-                        In no event shall SmartHR be liable for any direct, indirect, incidental, special, or consequential damages resulting from the use or inability to use the platform, even if we have been advised of the possibility of such damages.
+                        In no event shall HAQHAI be liable for any direct, indirect, incidental, special, or consequential damages resulting from the use or inability to use the platform, even if we have been advised of the possibility of such damages.
                     </p>
                 </div>
                 <div class="mb-3">
@@ -121,7 +121,7 @@
     </div>
 
     <div class="footer d-sm-flex align-items-center justify-content-between border-top bg-white p-3">
-        <p class="mb-0">2014 - 2025 &copy; SmartHR.</p>
+        <p class="mb-0">2014 - 2025 &copy; HAQHAI.</p>
         <p>Designed &amp; Developed By <a href="javascript:void(0);" class="text-primary">Dreams</a></p>
     </div>
 

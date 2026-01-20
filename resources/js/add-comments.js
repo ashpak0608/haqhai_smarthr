@@ -1,10 +1,10 @@
 /*
 Author       : Dreamstechnologies
-Template Name: Smarthr - Bootstrap Admin Template
+Template Name: HAQHAI - Bootstrap Admin Template
 */
 (function () {
     "use strict";
-	
+		
 	// Add Comment
 
 	if($('.add-comment').length > 0) {
