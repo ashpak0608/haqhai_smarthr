@@ -25,6 +25,11 @@
         @yield('content')
 
     </div>
+
     @include('layout.partials.footer-scripts')
+
+    {{-- CRITICAL: This is required to load the scripts from your add.blade.php file --}}
+    @yield('scripts')
+
 </body>
 </html>
